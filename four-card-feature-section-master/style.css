@@ -1,0 +1,18 @@
+﻿.tool
+{
+    height:220px;
+    box-shadow:5px 10px 20px grey;
+    margin-top: 20px;
+}
+#supervisor{
+    border-top: solid aqua;
+}
+#team-builder{
+    border-top: solid tomato;
+}
+#karma{
+    border-top: solid yellow;
+}
+#caculator{
+    border-top: solid blue;
+}
